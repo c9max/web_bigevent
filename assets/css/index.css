@@ -29,7 +29,8 @@ a {
 .userinfo {
     height: 60px;
     line-height: 60px;
-    text-align: center;
+    text-align: left;
+    padding-left: 30px;
     font-size: 14px;
     /* 禁止内容被用户选中 */
     user-select: none;
